@@ -21,7 +21,7 @@ The Series Analyzer is a Bash script that allows users to input a series of posi
    cd series_analyzer
 2. Make the script executable:
     ```bash
-  chmod +x series_analyzer.sh
+    chmod +x series_analyzer.sh
 
 ### Usage
 1. Running the script without arguments:
@@ -32,9 +32,9 @@ The Series Analyzer is a Bash script that allows users to input a series of posi
    ./series_analyzer.sh 5 10 15 20
 
 ### Code Structure
-validate(): Validates individual numbers.
-validate_series(): Ensures the series consists of valid numbers.
-display_menu(): Shows the menu options.
-handle_menu_choice(): Processes user choices from the menu.
-Series_Analyzer(): The main function that drives the script
+ validate(): Validates individual numbers.
+ validate_series(): Ensures the series consists of valid numbers.
+ display_menu(): Shows the menu options.
+ handle_menu_choice(): Processes user choices from the menu.
+ Series_Analyzer(): The main function that drives the script
 
