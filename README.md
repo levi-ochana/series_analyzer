@@ -20,12 +20,15 @@ The Series Analyzer is a Bash script that allows users to input a series of posi
    git clone https://github.com/yourusername/series_analyzer.git
    cd series_analyzer
 2. Make the script executable:
+    ```bash
   chmod +x series_analyzer.sh
 
 ### Usage
 1. Running the script without arguments:
-  ./series_analyzer.sh
-2. Running the script with arguments:
+    ```bash
+   ./series_analyzer.sh
+3. Running the script with arguments:
+    ```bash
    ./series_analyzer.sh 5 10 15 20
 
 ### Code Structure
