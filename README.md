@@ -1,7 +1,9 @@
 # Series Analyzer
 
 ## Overview
-The Series Analyzer is a Bash script that allows users to input a series of positive numbers and perform various statistical analyses, including >
+
+The Series Analyzer is a Bash script designed to perform various statistical analyses on a series of positive numbers.
+It supports both command-line and interactive input and provides essential statistics such as maximum, minimum, average, count, and sum.
 
 ## Features
 - Input a series via command line or interactive prompt.
