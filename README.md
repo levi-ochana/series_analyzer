@@ -17,7 +17,7 @@ The Series Analyzer is a Bash script that allows users to input a series of posi
 ### Installation
 1. Clone the repository:
     ```bash
-   git clone https://github.com/yourusername/series_analyzer.git
+   git clone https://github.com/levi-ochana/series_analyzer.git
    cd series_analyzer
 2. Make the script executable:
     ```bash
