@@ -26,10 +26,10 @@ It supports both command-line and interactive input and provides essential stati
     chmod +x series_analyzer.sh
 
 ### Usage
-  # Running the script without arguments:
+  #### Running the script without arguments:
     ```bash
    ./series_analyzer.sh
- # Or running the script with arguments:
+ #### Or running the script with arguments:
     ```bash
    ./series_analyzer.sh 5 10 15 20
 
