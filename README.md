@@ -28,10 +28,10 @@ It supports both command-line and interactive input and provides essential stati
 ### Usage
  1. Running the script without arguments:
     ```bash
-   ./series_analyzer.sh
+    ./series_analyzer.sh
  2. Or running the script with arguments:
     ```bash
-   ./series_analyzer.sh 5 10 15 20
+    ./series_analyzer.sh 5 10 15 20
 
 ### Code Structure
  validate(): Validates individual numbers.
