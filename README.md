@@ -27,15 +27,15 @@ It supports both command-line and interactive input and provides essential stati
    
 3. Make the script executable:
     ```bash
-    chmod +x series_analyzer.sh
+    chmod +x main.sh
 
 ### Usage
  1. Running the script without arguments:
     ```bash
-    ./series_analyzer.sh
+    ./main.sh
  2. Or running the script with arguments:
     ```bash
-    ./series_analyzer.sh 5 10 15 20
+    ./main.sh 5 10 15 20
 
 ### Code Structure
  validate(): Validates individual numbers.  
