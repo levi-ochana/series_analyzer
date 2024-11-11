@@ -46,5 +46,5 @@ It supports both command-line and interactive input and provides essential stati
 
  handle_menu_choice(): Processes user choices from the menu.
 
- Series_Analyzer(): The main function that drives the script
+ Series_Analyzer(): The main function that drives the script.
 
