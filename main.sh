@@ -212,4 +212,4 @@ Series_Analyzer() {
     done
 }
 
-Series_Analyzer "$@"
+main "$@"
