@@ -20,8 +20,12 @@ It supports both command-line and interactive input and provides essential stati
 1. Clone the repository:
     ```bash
    git clone https://github.com/levi-ochana/series_analyzer.git
+
+2. Navigate to the directory:
+   ```bash    
    cd series_analyzer
-2. Make the script executable:
+   
+3. Make the script executable:
     ```bash
     chmod +x series_analyzer.sh
 
@@ -34,9 +38,13 @@ It supports both command-line and interactive input and provides essential stati
     ./series_analyzer.sh 5 10 15 20
 
 ### Code Structure
- validate(): Validates individual numbers.
+ validate(): Validates individual numbers.  
+
  validate_series(): Ensures the series consists of valid numbers.
+
  display_menu(): Shows the menu options.
+
  handle_menu_choice(): Processes user choices from the menu.
+
  Series_Analyzer(): The main function that drives the script
 
